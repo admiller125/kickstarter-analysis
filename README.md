@@ -6,7 +6,6 @@
 ### Purpose
 Through manipulating and organizing the data, visualizations were created that allowed us to make determinations regarding when to launch a Kickstarter and how much should be requested as a goal in the hopes of meeting fundraising requirements.
 
-
 ## Analysis and Challenges
 	In order to expand on the data analysis of the module an additional column was created called "Years" and additional functions were used for simple mathematical analysis such as the sum() and countifs() functions.
 
@@ -15,6 +14,8 @@ In the "Outcomes Based on Launch Date" analysis, the data of the outcomes (succe
 
 ### Analysis of Outcomes Based on Goals
 In the "Outcomes Based on Goals" analysis, the data of the projects success and failure was calculated using the countifs() function. The total projects were then summed up and the success and failure percentages were calculated. This was then displayed on a line chart. 
+
+![Outcomes Based on Goals.png](path/to/Outcomes Based on Goals.png)
 
 ### Challenges and Difficulties Encountered
 The analysis in this exercise was straightforward, however I did run into a minor roadblock. Superfluous information in the form of "live" Kickstarters provided irrelevant detail and reduced the clarity of the analysis. As a result this was remedied by deleting the data and redoing the data organization for the "Outcomes by Launch Date" portion of the analysis.
