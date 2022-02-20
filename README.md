@@ -15,7 +15,7 @@ In the "Outcomes Based on Launch Date" analysis, the data of the outcomes (succe
 ### Analysis of Outcomes Based on Goals
 In the "Outcomes Based on Goals" analysis, the data of the projects success and failure was calculated using the countifs() function. The total projects were then summed up and the success and failure percentages were calculated. This was then displayed on a line chart. 
 
-![Outcomes Based on Goals.png]
+![](images/Outcomes Based on Goals.png)
 
 ### Challenges and Difficulties Encountered
 The analysis in this exercise was straightforward, however I did run into a minor roadblock. Superfluous information in the form of "live" Kickstarters provided irrelevant detail and reduced the clarity of the analysis. As a result this was remedied by deleting the data and redoing the data organization for the "Outcomes by Launch Date" portion of the analysis.
