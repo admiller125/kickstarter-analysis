@@ -12,6 +12,8 @@ Through manipulating and organizing the data, visualizations were created that a
 ### Analysis of Outcomes Based on Launch Date
 In the "Outcomes Based on Launch Date" analysis, the data of the outcomes (successful, failed, or canceled) was compared to the months of the year. Filters of "Parent Category" and "Years" were created in order to further drill down into the data. The "Parent Category" was changed to "theater" to help provide context to which month the most successful theater Kickstarters. A pivot chart was then created to help visualize the data.  
 
+![](Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
 In the "Outcomes Based on Goals" analysis, the data of the projects success and failure was calculated using the countifs() function. The total projects were then summed up and the success and failure percentages were calculated. This was then displayed on a line chart. 
 
